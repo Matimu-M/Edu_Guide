@@ -49,11 +49,11 @@ body {
     top: -10px;
     left: -10px;
 
-    width: 55%;
-    height: 45px;
+    width: 25%;
+    height: 25px;
 
-    border-top: 20px solid #006b0b;
-    border-left: 20px solid #006b0b;
+    border-top: 10px solid #006b0b;
+    border-left: 10px solid #006b0b;
 
     border-radius: 35px 0 0 0;
 }
